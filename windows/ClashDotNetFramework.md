@@ -3,7 +3,7 @@
 1\. 简介
 ------
 
-ClashDotNetFramework 是基于.NET5的图形化 Clash 分支，似乎并非是开源软件，请根据您的情况选择是否使用。
+ClashDotNet 是基于.NET5的图形化 Clash 分支，目前这个ClashDotNet软件已经多年未更新了,问题比较多不建议使用了,推荐使用[V2rayN](https://github.com/bannedbook/fanqiang/blob/master/windows/V2RayN.md)。
 
 **支持的协议：** Vmess, Shadowsocks, Snell , SOCKS5 , ShadowsocksR，注意：目前不支持vless协议，vless节点会被显示为vmess并连接超时。
 
@@ -12,10 +12,10 @@ ClashDotNetFramework 是基于.NET5的图形化 Clash 分支，似乎并非是�
 
 注册机场以获取节点订阅链接或者找免费的订阅链接。
 
-这里我们推荐一个[V2ray机场，有免费V2ray和SS节点](https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)，[点击注册](https://go.runba.cyou/auth/register?code=cd79)，注册后在该机场用户中心拷贝Clash订阅链接。
+这里我们推荐一个[V2ray机场，有免费V2ray节点](https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)，[点击注册](https://w1.v2ai.top/auth/register?code=cd79)，注册后在该机场用户中心拷贝Clash订阅链接。
 
 教育网的网友如果打不开上面的链接，请使用这个链接：
-https://cdn.runba.cyou/auth/register?code=cd79
+https://cdn.v2ai.top/auth/register?code=cd79
 
 注册后免费获得1024M初始流量，每日[签到](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/checkin.jpg)可获得300-500M免费流量。
 注册登录后，用个人邀请链接 邀请新用户注册还可获得流量奖励，如果新用户成为付费用户，你还可以赚取高达20%终生佣金奖励。
@@ -79,6 +79,7 @@ https://cdn.runba.cyou/auth/register?code=cd79
 *   [安卓翻墙软件](https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 *   [安卓翻墙APP教程](https://github.com/bannedbook/fanqiang/tree/master/android)
 *   [Chrome一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
+*   [EdgeGo-Edge一键翻墙包](https://github.com/bannedbook/fanqiang/tree/master/EdgeGo)
 *   [火狐firefox一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
 *   [自建V2ray服务器翻墙简明教程](https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)
 *   [自建Shadowsocks服务器翻墙简明教程](https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)

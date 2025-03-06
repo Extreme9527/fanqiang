@@ -44,12 +44,12 @@ Clash for Android 支持两种导入节点及配置文档的方式：
 
 登录您的机场获取Clash订阅，推荐免费公益机场-V2free机场：
 
-[![免费公益机场-不限流量](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/freenode.jpg)](https://go.runba.cyou/auth/register?code=cd79)
+[![免费公益机场-不限流量](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/freenode.jpg)](https://w1.v2ai.top/auth/register?code=cd79)
 
-点击注册链接：<a href="https://go.runba.cyou/auth/register?code=cd79" target="_blank">go.runba.cyou</a>，注册后在该网站用户中心获取clash订阅链接，根据其用户中心的快速使用帮助下的相应操作系统的帮助文档操作即可。
+点击注册链接：<a href="https://w1.v2ai.top/auth/register?code=cd79" target="_blank">w1.v2ai.top</a>，注册后在该网站用户中心获取clash订阅链接，根据其用户中心的快速使用帮助下的相应操作系统的帮助文档操作即可。
 
 教育网的网友如果打不开上面的链接，请使用这个链接：
-https://cdn.runba.cyou/auth/register?code=cd79
+https://cdn.v2ai.top/auth/register?code=cd79
 
 注册后免费获得1024M初始流量，每日[签到](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/checkin.jpg)可获得300-500M免费流量。
 注册登录后，用个人邀请链接 邀请新用户注册还可获得流量奖励，如果新用户成为付费用户，你还可以赚取高达20%终生佣金奖励。
@@ -189,6 +189,7 @@ Clash for Android现已适配暗黑模式。
 *   [安卓翻墙软件](https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 *   [安卓翻墙APP教程](https://github.com/bannedbook/fanqiang/tree/master/android)
 *   [Chrome一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
+*   [EdgeGo-Edge一键翻墙包](https://github.com/bannedbook/fanqiang/tree/master/EdgeGo)
 *   [火狐firefox一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
 *   [自建V2ray服务器翻墙简明教程](https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)
 *   [自建Shadowsocks服务器翻墙简明教程](https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)

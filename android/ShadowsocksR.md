@@ -13,10 +13,10 @@ ShadowsocksR(R) 是在 Android 平台上的客户端软件，支持 ShadowsocksR
 
 ## 获取订阅
 
-从[V2ray机场，该机场暂无SSR节点，但有V2ray和SS节点](https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)获取[V2ray订阅链接](https://go.runba.cyou/auth/register?code=cd79)，或者也可以找[免费订阅链接](https://go.runba.cyou/auth/register?code=cd79)
+从[V2ray机场，该机场暂无SSR节点，但有V2ray和SS节点](https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)获取[V2ray订阅链接](https://w1.v2ai.top/auth/register?code=cd79)，或者也可以找[免费订阅链接](https://w1.v2ai.top/auth/register?code=cd79)
 
 教育网的网友如果打不开上面的链接，请使用这个链接：
-https://cdn.runba.cyou/auth/register?code=cd79
+https://cdn.v2ai.top/auth/register?code=cd79
 
 机场 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
 
@@ -48,6 +48,7 @@ https://cdn.runba.cyou/auth/register?code=cd79
 *   [安卓翻墙软件](https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 *   [安卓翻墙APP教程](https://github.com/bannedbook/fanqiang/tree/master/android)
 *   [Chrome一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
+*   [EdgeGo-Edge一键翻墙包](https://github.com/bannedbook/fanqiang/tree/master/EdgeGo)
 *   [火狐firefox一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
 *   [自建V2ray服务器翻墙简明教程](https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)
 *   [自建Shadowsocks服务器翻墙简明教程](https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)

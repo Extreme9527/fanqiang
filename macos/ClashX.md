@@ -10,7 +10,7 @@ ClashX 是一个拥有 GUI 界面基于 Clash 可自定义规则的 macOS 代理
 
 以下是ClashX的下载地址。
 
-- 官方下载：[ClashX](https://github.com/yichengchen/clashX/releases)
+- 下载：[ClashX](https://github.com/bannedbook/ClashX/releases)
 
 下载ClashX的安装文件，文件格式为”dmg”格式，相当于一个光盘镜像文件。
 下载的文件一般放置于用户的”下载”文件夹，使用 Finder找到下载文件。
@@ -19,10 +19,10 @@ ClashX 是一个拥有 GUI 界面基于 Clash 可自定义规则的 macOS 代理
 
 注册机场以获取 Clash 订阅链接或者找免费的订阅链接。
 
-这里我们推荐一个[V2ray机场，有免费V2ray和SS节点](https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)，[点击注册](https://go.runba.cyou/auth/register?code=cd79)，注册后在该机场拷贝Clash订阅链接。
+这里我们推荐一个[V2ray机场，有免费V2ray节点](https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)，[点击注册](https://w1.v2ai.top/auth/register?code=cd79)，注册后在该机场拷贝Clash订阅链接。
 
 教育网的网友如果打不开上面的链接，请使用这个链接：
-https://cdn.runba.cyou/auth/register?code=cd79
+https://cdn.v2ai.top/auth/register?code=cd79
 
 注册后免费获得1024M初始流量，每日[签到](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2sshttps://v2free.org/docs/SSPanel/macOS/images/checkin.jpg)可获得300-500M免费流量。
 注册登录后，用个人邀请链接 邀请新用户注册还可获得流量奖励，如果新用户成为付费用户，你还可以赚取高达20%终生佣金奖励。
@@ -80,6 +80,7 @@ https://cdn.runba.cyou/auth/register?code=cd79
 *   [安卓翻墙软件](https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 *   [安卓翻墙APP教程](https://github.com/bannedbook/fanqiang/tree/master/android)
 *   [Chrome一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
+*   [EdgeGo-Edge一键翻墙包](https://github.com/bannedbook/fanqiang/tree/master/EdgeGo)
 *   [火狐firefox一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
 *   [自建V2ray服务器翻墙简明教程](https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)
 *   [自建Shadowsocks服务器翻墙简明教程](https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)
